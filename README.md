@@ -2,7 +2,7 @@
 This project aimed to train models to perform classification on 10 classes with best accuracies and precision. We implemented seven different classifier models to determine which one fits the dataset features most accurately. The audio wave files were converted to mel frequency cepstral coefficients (MFCC) for feature extraction. 
 
 ## Dataset
-[UrbanSound8K Dataset](https://urbansounddataset.weebly.com/urbansound8k.html)
+[Link](https://urbansounddataset.weebly.com/urbansound8k.html) to UrbanSound8K Dataset
 
 The target classes are:
 
